@@ -1,6 +1,6 @@
 # Mailing List Guidelines
 
-![Version 1.0.1](https://img.shields.io/badge/Version-1.0.1-brightgreen.svg)
+![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)
 
 Guidelines for posting or replying on mailing list.
 
